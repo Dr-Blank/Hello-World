@@ -1,3 +1,0 @@
-This the third file, created in Test Branch.
-
-Modified in Master
